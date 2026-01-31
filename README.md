@@ -105,9 +105,3 @@ Topics covered:
 
 **Satyam Kumar**  
 GitHub: https://github.com/satyamhq  
-
----
-
-## Getting Started
-
-Clone this repository and follow the modules in order to build a solid foundation in JavaScript programming.
