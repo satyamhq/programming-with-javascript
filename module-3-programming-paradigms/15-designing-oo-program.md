@@ -9,11 +9,13 @@ This guide demonstrates how to create classes in JavaScript using inheritance, t
 We'll build the following inheritance structure:
 
 ```
-                 Animal
-                   /          \
-               Cat          Bird
-          /               \          \
-    HouseCat   Tiger      Parrot
+                       Animal
+                     /        \
+                  Cat          Bird
+               /     \          \
+         HouseCat   Tiger      Parrot
+
+
 ```
 
 ## Essential OOP Keywords
