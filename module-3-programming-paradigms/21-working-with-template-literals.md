@@ -19,7 +19,7 @@ Did you know? No multi-line strings in ES5
 This uses the `+` operator for concatenation.
 
 ## The Problem with ES5 Multi-line Strings
-
+ 
 ### Attempting Multi-line (Causes Error)
 
 ```js
